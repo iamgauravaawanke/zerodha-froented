@@ -18,13 +18,8 @@
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 },
-  {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/" }
-  ]
-},
+ 
 
-,
   "eslintConfig": {
     "extends": [
       "react-app",
